@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="cat.bin" />
+    <None Include="JoelMendoza_Tutorial.pdf" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
