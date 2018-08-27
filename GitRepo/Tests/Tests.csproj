@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="cat.bin" />
+    <None Include="JoelMendoza_Tutorial.pdf" />
     <None Include="JoelMendoza_Tutorial.zip" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
